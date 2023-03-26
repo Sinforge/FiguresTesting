@@ -1,0 +1,15 @@
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\bin\Debug\net6.0\FiguresProject.exe
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\bin\Debug\net6.0\FiguresProject.deps.json
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\bin\Debug\net6.0\FiguresProject.runtimeconfig.json
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\bin\Debug\net6.0\FiguresProject.dll
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\bin\Debug\net6.0\FiguresProject.pdb
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\FiguresProject.csproj.AssemblyReference.cache
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\FiguresProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\FiguresProject.AssemblyInfoInputs.cache
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\FiguresProject.AssemblyInfo.cs
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\FiguresProject.csproj.CoreCompileInputs.cache
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\FiguresProject.dll
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\refint\FiguresProject.dll
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\FiguresProject.pdb
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\FiguresProject.genruntimeconfig.cache
+C:\Users\vladv\source\repos\TestMindBox\TestMindBox\obj\Debug\net6.0\ref\FiguresProject.dll
